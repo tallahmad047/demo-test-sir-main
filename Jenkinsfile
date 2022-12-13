@@ -6,7 +6,7 @@ pipeline{
    stages{
       stage("source"){
           steps{
-             git branch: 'master' ,url:'https://github.com/tallahmad047/demotest-main.git'
+             git branch: 'master' ,url:'https://github.com/tallahmad047/demo-test-sir-main.git'
         }
       }
       stage ('build'){
