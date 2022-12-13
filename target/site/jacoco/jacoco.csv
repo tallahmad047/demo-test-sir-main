@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+dema-test,com.sn.sir.dematest.model,Person,0,43,0,0,0,19,0,10,0,10
+dema-test,com.sn.sir.dematest,DemaTestApplication,5,3,0,0,2,1,1,1,1,1
+dema-test,com.sn.sir.dematest,Calculator,0,19,0,0,0,5,0,5,0,5
+dema-test,com.sn.sir.dematest.service,PersonServiceImpl,22,16,0,0,5,5,3,3,3,3
+dema-test,com.sn.sir.dematest.controller,PersonController,22,20,0,0,4,6,3,4,3,4
